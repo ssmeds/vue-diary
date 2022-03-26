@@ -1,5 +1,9 @@
 # learning-vue
 
+A simple diary app built with Vue and localstorage.
+
+![Diary App with Vue](/src/assets/vue-diary.png)
+
 ## Project setup
 ```
 npm install
